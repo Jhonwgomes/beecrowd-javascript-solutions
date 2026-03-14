@@ -1,6 +1,6 @@
 /**
  * Beecrowd Problem 1002 - Area of a Circle
- * https://www.beecrowd.com.br/judge/en/problems/view/1002
+ * https://judge.beecrowd.com/en/problems/view/1002
  *
  * Description:
  * Read the value of the radius (R) of a circle and calculate its area.

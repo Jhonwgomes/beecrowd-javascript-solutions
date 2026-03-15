@@ -42,6 +42,13 @@ beecrowd-javascript-solutions
 │   ├── 1000.js
 │   ├── 1001.js
 │   ├── 1002.js
+|   ├── 1003.js
+│   ├── 1004.js
+|   ├── 1005.js
+│   ├── 1006.js
+|   ├── 1007.js
+│   ├── 1008.js
+|   ├── 1009.js
 │
 └── notes
     └── logic-notes.md
@@ -67,6 +74,14 @@ Solved: **3 / 3350+ Beecrowd Problems**
 | 1000    | Hello World      | [View Code](./problems/1000.js) |
 | 1001    | Extremely Basic  | [View Code](./problems/1001.js) |
 | 1002    | Area of a Circle | [View Code](./problems/1002.js) |
+| 1003    | Simple Sum       | [View Code](./problems/1003.js) |
+| 1004    | Simple Product   | [View Code](./problems/1004.js) |
+| 1005    | Average 1        | [View Code](./problems/1005.js) |
+| 1006    | Average 2        | [View Code](./problems/1006.js) |
+| 1007    | Difference       | [View Code](./problems/1007.js) |
+| 1008    | Salary           | [View Code](./problems/1008.js) |
+| 1009    | Salary with Bonus| [View Code](./problems/1009.js) |
+
 
 ---
 
